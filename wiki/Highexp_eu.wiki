@@ -1,19 +1,19 @@
 #labels highexp.eu,KinaSpell
 Spell Kina:<br>
 
-  knight star - Knight Power : 25%
-  hell deathdrive - DeathDrive : 0
-  exevo grav vita - Trap Spell : 50000
-  mega gran - Dontor Knight Spell : 5%
-  Exeta Immune - Immune Ring : 0
-  Exori Strike - Knight Strike : 25%
-  exori rock - Knight Rock : 0
-  Death breasker - Bresaker Exori : 340
-  exori gran - Fierce Berserk : 340
-  Exori Swords - Swords Legends : 340
-  utani death hur - Death Haste : 35000000
-
-  !adori mas gran - Extreme Rock-Kina : 0
-  !adori mas poison - Extreme Snake-Sorc : 0
-  !adori mas frigo - Extreme Ice-Druid : 0
-  !adori con gran - Extreme Holy-Pally : 0
+<br>  knight star - Knight Power : 25%
+<br>  hell deathdrive - DeathDrive : 0
+<br>  exevo grav vita - Trap Spell : 50000
+<br>  mega gran - Dontor Knight Spell : 5%
+<br>  Exeta Immune - Immune Ring : 0
+<br>  Exori Strike - Knight Strike : 25%
+<br>  exori rock - Knight Rock : 0
+<br>  Death breasker - Bresaker Exori : 340
+<br>  exori gran - Fierce Berserk : 340
+<br>  Exori Swords - Swords Legends : 340
+<br>  utani death hur - Death Haste : 35000000
+<br>
+<br>  !adori mas gran - Extreme Rock-Kina : 0
+<br>  !adori mas poison - Extreme Snake-Sorc : 0
+<br>  !adori mas frigo - Extreme Ice-Druid : 0
+<br>  !adori con gran - Extreme Holy-Pally : 0
