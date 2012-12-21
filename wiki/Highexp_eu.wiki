@@ -1,5 +1,5 @@
 #labels highexp.eu,KinaSpell
-Spell Kina:
+Spell Kina:<br>
 
   knight star - Knight Power : 25%
   hell deathdrive - DeathDrive : 0
