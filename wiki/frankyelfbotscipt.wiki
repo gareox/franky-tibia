@@ -5,10 +5,19 @@
 Script & Hotkey for Elfbot.
 
 
+= Auto Take Item =
+auto 1 collectitems 'empty'9019
 = Details =
-
 Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-  * auto 1 collectitems 'empty'9019
+= Details =
+Add your content here.  Format your content with:
+= Details =
+Add your content here.  Format your content with:
+= Details =
+Add your content here.  Format your content with:
+= Details =
+Add your content here.  Format your content with:
+= Details =
+Add your content here.  Format your content with:
+= Details =
+Add your content here.  Format your content with:
